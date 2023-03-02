@@ -37,7 +37,7 @@ section::after {
   </div>
 </div>
 
-[kuva: Jyväskylän yliopiston museo](https://commons.wikimedia.org/wiki/File:DUO_K1759_25_Puutarhatyo_Miesopiskelijoita_kasvitarhassa.jpeg) väritys: Ari Häyrinen
+<sub>kuva: [Jyväskylän yliopiston museo](https://commons.wikimedia.org/wiki/File:DUO_K1759_25_Puutarhatyo_Miesopiskelijoita_kasvitarhassa.jpeg) <br>väritys: Ari Häyrinen, DeOldify</sub>
 
 
 ---
@@ -133,7 +133,8 @@ Museot voivat houkutella uusia kävijöitä avaamalla aineistojaan julkiseen kä
 
 Näistä syistä museoiden kannattaa harkita aineistojensa avaamista julkiseen käyttöön. Samalla avoimuus voi edistää museoiden tärkeintä tehtävää: kulttuuriperinnön säilyttämistä ja jakamista tuleville sukupolville.
 
-Terveisin chatGPT
+Terveisin chatGPT*
+<sub>*diat 7-12
 
 ---
 
@@ -207,6 +208,8 @@ Vain avoimille aineistoille.
 
 ---
 
+
+
 # Wikimaailma: Historica -rakennus
 
 <div>
@@ -221,5 +224,34 @@ Vain avoimille aineistoille.
 </div>
 
 kuva: [Jyväskylän yliopiston museo](https://commons.wikimedia.org/wiki/Category:Historica_(Jyv%C3%A4skyl%C3%A4)#/media/File:DUO_K1637_2_Postikortti-+seminaarin+naisosaston+rakennukset.jpeg)
+
+---
+
+# Miksi seuranta?
+
+- vaikuttavuusmittarit
+- raportointi rahoittajille
+
+
+---
+
+# Vuorovaikutus?
+
+## wikityöpajat
+https://media-art-finland.fi/wikipaja-mediataiteen-historia-wikipediaan/
+https://sateenkaarihistoria.fi/event/sateenkaarihistorian-wikipaja-2022/
+https://fi.wikipedia.org/wiki/Wikiprojekti:Keuruun_museo
+
+## hacklabit
+[hack4fi](https://hack4.fi/)
+
+
+---
+
+# Tiedon puutarhuriutta käytännössä
+
+Porin taidemuseon wikidata -projekti
+
+https://www.wikidata.org/wiki/Wikidata:WikiProject_Collection_data_from_Wikidata_to_Finna
 
 
