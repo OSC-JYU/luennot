@@ -6,8 +6,8 @@ paginate: true
 
 ---
 
-<!--header: Avoimen Tiedon Keskus/JYU-->
-<!--footer: Ari Häyrinen-->
+<!--header: Avoimen Tiedon Keskus / JYU-->
+<!--footer: Ari Häyrinen / Avoimen Tiedon Keskus / JYU-->
 
 <style>
 section::after {
@@ -54,23 +54,27 @@ section::after {
 
 ---
 
-# Luennoitsija
+# Ari Häyrinen
 
 <div class='some-page-wrapper'>
   <div class='row'>
     <div class='column'>
       <div class='blue-column'>
-            <li>tietojärjestelmäasiantuntija Avoimen tiedon keskuksessa</li>
-            <li>humanistipohjainen propellihattu</li>
+            <li>tietojärjestelmäasiantuntija <br>Avoimen tiedon keskuksessa</li>
+            <li>humanistitausta:<br>filosofia->taidehistoria->digitaalinen kulttuuri</li>
+            <li>https://github.com/artturimatias
       </div>
     </div>
     <div class='column'>
       <div class='green-column'>
         <img src="kuvat/petajavesi.jpg"   width="400px">
       </div>
+      <sub>
     </div>
   </div>
 </div>
+
+kuva: Petäjäveden vanhan kirkon [virtuaalirekonstruktio](https://jyx.jyu.fi/bitstream/handle/123456789/38974/building_the_past.pdf?sequence=5&isAllowed=y)
 
 
 ----
@@ -175,11 +179,18 @@ Wikimedia Foundationin -alustat (jatkossa wikimaailma)  on tapa tuoda tietoa yht
 
 **Wikipedia** on ainut päivittyvä, suomenkielinen tietosanakirja
 
-https://fi.wikipedia.org/wiki/Ohje:Sis%C3%A4llys
+- [merkittävyyskriteeri](https://fi.wikipedia.org/wiki/Wikipedia:Merkitt%C3%A4vyys)
+- [ei uutta tutkimusta](https://fi.wikipedia.org/wiki/Wikipedia:Ei_uutta_tutkimusta)
+- [tiedon oltava lähteistettyä](https://fi.wikipedia.org/wiki/Wikipedia:Merkitse_l%C3%A4hteet) 
 
-[Wikipedian kritiikki](https://fi.wikipedia.org/wiki/Wikipedian_kritiikki)
 
-### seuranta
+Wikipedian [kritiikki](https://fi.wikipedia.org/wiki/Wikipedian_kritiikki)
+
+---
+
+# Wikipedian tilastot
+
+Sivujen ja kieliversioiden katselukerrat ovat seurattavissa
 
 [Käärijä: wipedian katselumäärät](https://pageviews.wmcloud.org/pageviews/?project=fi.wikipedia.org&platform=all-access&agent=user&redirects=0&range=this-year&pages=K%C3%A4%C3%A4rij%C3%A4)
 
@@ -234,7 +245,7 @@ kuva: [Jyväskylän yliopiston museo](https://commons.wikimedia.org/wiki/Categor
 
 
 ---
-
+<!--header: vuorovaiktus-->
 # Vuorovaikutus?
 
 ## wikityöpajat
@@ -254,4 +265,12 @@ Porin taidemuseon wikidata -projekti
 
 https://www.wikidata.org/wiki/Wikidata:WikiProject_Collection_data_from_Wikidata_to_Finna
 
+---
 
+<!--header: digitaalisen kulttuuriperinnön pelastaminen-->
+
+# Ukrainan digitaalisen kulttuuriperinnön pelastaminen
+
+https://www.sucho.org/
+
+yli 5000 sivustoa arkistoitu ja 50 teratavua aineistoa arkistoitu
