@@ -273,4 +273,4 @@ https://www.wikidata.org/wiki/Wikidata:WikiProject_Collection_data_from_Wikidata
 
 https://www.sucho.org/
 
-yli 5000 sivustoa arkistoitu ja 50 teratavua aineistoa arkistoitu
+yli 5000 sivustoa ja 50 teratavua aineistoa arkistoitu
