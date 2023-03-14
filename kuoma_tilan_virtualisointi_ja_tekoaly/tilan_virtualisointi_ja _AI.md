@@ -87,7 +87,7 @@ https://hubs.mozilla.com/vjpXfuH/karjasillan-kirkko
 - kuvat itsessään ovat dokumentteja
 - kuvista voidaa myöhemmin tekniikan kehittyessä generoida tarkempia malleja
 ## haittoja
-- kuvat-aineisto suuri ja säilyttäminen maksaa
+- kuva-aineisto suuri ja säilyttäminen maksaa
 
 
 ---
