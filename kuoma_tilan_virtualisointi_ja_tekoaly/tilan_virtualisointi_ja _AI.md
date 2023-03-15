@@ -21,10 +21,12 @@ theme: testi
       <div class='green-column'>
         <img src="kuvat/seminarium_juhlasali.jpg"   width="400px">
       </div>
+      kuva: Jyväskylän yliopiston museo
     <div class='green-column'>
         <img src="kuvat/dog_edvard_munch.jpeg
         "   width="200px">
       </div>
+      kuva: stable diffusion
     </div>
   </div>
 </div>
@@ -41,21 +43,23 @@ theme: testi
 <!--header: Tilan virtualisointi-->
 # 360 kuvaus
 
-kuvataan joka suuntaan yhtäaikaa (360 astetta). Stitching -vaiheen jälkeen tuloksena yksi kuva (tai video).
+Erikoiskamera kuvaa joka suuntaan yhtäaikaa (kuva tai video). 
 
 - nopea tapa "vangita" ympäristö
 - helppo tapa nauhoittaa tapahtuma
 -- muisteluhetki
 -- työmaadokumentointi yms.
-
+- 
 
 ---
 # 360 -aineisto selaimessa
 
+Keltainen Kirjasto -verkkonäyttely
 https://tools.oscapps.jyu.fi/public/osc-360-dev/
+Kuoma 2019 - Mätäsvaara
 https://tools.oscapps.jyu.fi/public/kuoma/2019/
-
-
+Gigapixel -kuvat (Rooma)
+https://360gigapixels.com/rome/
 
 ---
 # 360 -aineisto VR:ssä
@@ -76,6 +80,8 @@ https://hubs.mozilla.com/3wkshHE/steel-firsthand-meet
 # Photogrammetria
 3-ulotteiseta kohteesta luodaan  3-ulotteinen malli valokuvien avulla
 - voidaan käyttää myös laajoihin alueisiin (kuvataan dronella)
+
+https://fi.wikipedia.org/wiki/Fotogrammetria
 
 ### Karjasillan kirkko
 https://hubs.mozilla.com/vjpXfuH/karjasillan-kirkko
@@ -134,7 +140,7 @@ https://huggingface.co/hustvl/yolos-tiny
 
 Kone oppii aineistoista, jotka on luokiteltu ihmisen toimesta
 
-demo:
+testaa itse:
 https://teachablemachine.withgoogle.com/
 
 
@@ -147,8 +153,10 @@ Koneoppimismallit jotka luovat uutta aineistoa.
 
 
 ![width:200px](kuvat/dog_edvard_munch.jpeg)
-A dog by Edvard Munch (stable diffusion)
+A dog by Edvard Munch [(stable diffusion online)](https://stablediffusionweb.com/) - [lisätietoa](https://stability.ai/blog/stable-diffusion-v2-release)
+
+https://openai.com/blog/chatgpt
 
 ---
-# Kumman valitset?
+
 
