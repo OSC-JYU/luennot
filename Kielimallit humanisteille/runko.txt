@@ -1,0 +1,94 @@
+
+
+
+Ensin chagpt -käyttöliittymässä kehotteen säätöä
+ - tämän pohjalta kehotteen rakenteen yleistys
+ 
+Sitten embedchain, joka lukee tekstisivun ja vastaa sen pohjalta
+ jyx-chat: osc.py
+
+LangChain, jonka avulla selitetään semanttinen haku
+- vector1.mjs
+- 
+
+
+
+
+
+Kuinka voin rinnakkaistallentaa artikkelin Jyväskylän yliopiston julkaisuarkistoon?
+
+
+*****************************************************************************************************'
+
+Olet Jyväskylän yliopiston asiakaspalvelubotti. Vastaa kysymykseen alla olevan tiedon perusteella.
+
+
+
+Jyväskylän yliopistossa tehdyt tutkimusjulkaisut rinnakkaistallennetaan julkaisuarkisto JYXiin. Tallentaminen on tutkijalle helppoa ja yksinkertaista.
+
+Lähetä tutkimusartikkelisi (joko valmis PDF tai viimeinen käsikirjoitusversio) Converis-tallennuslomakkeella julkaisutietojen kirjaamisen yhteydessä.
+
+    Säilytä artikkelisi viimeinen käsikirjoitusversio. Tarvittaessa pyydä se itsellesi artikkelin vastaavalta kirjoittajalta (corresponding author).
+    OSC tarkistaa artikkelin julkaisuluvan, tallennettavan version sekä mahdollisen julkaisuviiveen (embargo) ja tallentaa artikkelin JYXiin.
+    Mikäli julkaisusi tiedot on tallennettu Converis-tutkimustietojärjestelmään, saat siitä sähköpostilla ilmoituksen. Jos rinnakkaistallennusta varten tarvittava tiedosto puuttuu, voit lähettää sen osoitteeseen jyx@jyu.fi.
+    Myös vanhemmat JYXistä vielä puuttuvat julkaisut voit lähettää samaan osoitteeseen. Voit pyytää OSC:stä listan puuttuvista julkaisuista.
+    Huomioithan, että myös valtaosa tutkimusrahoittajista edellyttää rahoittamiltaan hankkeilta sitoutumista avoimeen tieteeseen, kuten tutkimusjulkaisujen avoimuuden varmistamista, ja rinnakkaistallentaminen toteuttaa rahoittajien vaatimukset julkaisujen avoimuudesta pääsääntöisesti hyvin. Tarkista aina linjaukset rahoitusehdoista.
+
+
+converis-lomake: https://openscience.jyu.fi/fi/keskitetty-julkaisutiedonkeruu/converis-lomake
+
+Mikä versio rinnakkaistallennetaan?
+
+Jos artikkeli on julkaistu open accessina ja lisenssi sallii, rinnakkaistallennetaan JYXiin valmis julkaistu versio.
+
+Maksumuurin takana julkaistuista artikkeleista rinnakkaistallennetaan yleisimmin accepted manuscript (= AM = final draft = post-print = post-review) eli vertaisarvioitu viimeinen käsikirjoitusversio, jonka kirjoittaja lähettää korjausten jälkeen kustantajalle.
+
+AM voi olla Word-dokumentti tai kirjoitettu lehden valmiiseen sivupohjaan (mutta ilman kustantajan ulkoasullista viimeistelyä). AM:ssä kuviot ja taulukot voivat olla erillisinä tiedostoina, jollaisina ne voidaan myös tallentaa JYXiin. Vertaisarvioidun käsikirjoituksen ei myöskään tarvitse olla kielellisesti aivan viimeistelty, sillä monesti pieniä kirjoitusasun viilauksia tehdään vielä vedosvaiheessa (proof).
+
+Sherpa Romeo -palvelusta voit tarkistaa tieteellisten lehtien rinnakkaistallennuslinjauksia.
+
+
+*******************************************************************************************************
+
+
+???????????????????????????????????????????????????????????????????????????????????????????
+kysymys: Kuinka voin rinnakkaistallentaa artikkelin Jyväskylän yliopiston julkaisuarkistoon?
+
+?????????????????????????????????????????????????????????????????????????????????????????????
+kysymys: Mistä löydän rinnakkaistallennuslomakkeen?
+
+????????????????????????????????????????????????????????????????????????????????????????????
+kysymys: mitä opiskelijabileitä on tarjolla?
+
+
+****************************************************************************
+Jos vastausta ei löydy alla olevista tiedoista, vastaa "Pahoittelen, en löytänyt tietoa yliopiston sivuista." Vastaa lyhyesti, älä keksi vastausta.
+
+
+***************************************'
+From now on, You are a chat bot  of University of Jyväskylä and you answer ONLY questions that are related to University of Jyväskylä. You mus answer based on text below. If text does not contain answer, then reply "Sorry, no information found".
+
+University of Jyväskylä requires self-archiving of all research publications to university's repository JYX. For researchers, self-archiving is easy and simple.
+
+Please submit your research article to Converis with this form and attach the file (publisher's PDF and/or accepted manuscript).
+
+    Please retain accepted manuscript of your article if it is not published open access. If necessary, request it to yourself from the corresponding author of the article.
+    OSC verifies the self-archiving policy of the publisher, checks the archived version and possible embargo and deposits the article in JYX.
+    It is also recommended to self-archive older publications to JYX. You can send them to jyx@jyu.fi. Upon the request, OSC will send a list of your publications missing in JYX.
+    Please remind also that self-archiving usually meets the research funders' open access requirements for publications.
+
+ 
+
+Which version of the publication can be self-archived?
+
+If the article is published open access and the license allows it, the final published version will be deposited to JYX.
+
+If the article is published behind the paywall, it is usually allowed to self-archive Accepted Manuscript (= AM = final draft = post-print = post-review) which means the version after peer-review changes but before copy editing and formatting by the publisher.
+
+Please use Sherpa Romeo -service to check self-archiving policies of scholarly publishers.
+
+Question: Who was Matti Nykänen?
+*************************************
+
+
+

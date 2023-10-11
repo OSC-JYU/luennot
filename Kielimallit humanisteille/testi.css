@@ -1,0 +1,56 @@
+/* @theme testi */
+
+@import 'default';
+
+section {
+  background: #ffffff;
+}
+
+
+header,
+footer {
+  padding: 20px;
+  color: white;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  height: 40px;
+
+}
+
+header {
+  top: 0px;
+  background-color: #002957;
+  background-image: url(./logo.svg);
+  background-repeat: no-repeat;
+  background-size: 60px;
+  background-position: right 10px top 10px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  padding: 20px;
+}
+
+
+
+footer {
+  bottom: 0px;
+  height: 20px;
+}
+
+footer img {
+  height: 60px;
+}
+
+.small {
+  font-size: 14px;
+  width: 50%;
+}

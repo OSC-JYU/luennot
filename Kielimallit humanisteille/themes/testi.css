@@ -1,0 +1,50 @@
+/* @theme testi */
+
+@import 'default';
+
+section {
+  background: #ffff00;
+}
+
+
+header,
+footer {
+  padding: 20px;
+  color: white;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  height: 40px;
+  background-color: #002957;
+  background-image: url(./logo.svg);
+}
+
+header {
+  top: 0px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  padding: 10px;
+}
+
+
+
+footer {
+  bottom: 0px;
+  height: 20px;
+}
+
+footer img {
+  height: 60px;
+}
